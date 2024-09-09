@@ -1,2 +1,2 @@
-# https://mahdi-ziaaddini.github.io/CSharp-Programs/Phone-Book/Folder%20Renamer.exe
+# https://mahdi-ziaaddini.github.io/CSharp-Programs/Folder-Renamer/Folder%20Renamer.exe
 برای دانلود برنامه، روی لینک بالا کلیک کنید.
